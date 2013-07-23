@@ -1,7 +1,6 @@
 require "mustached_octo_wookie/version"
+require "mustached_octo_wookie/irc"
 
 module MustachedOctoWookie
-  def self.test
-    "blap"
-  end
+
 end
